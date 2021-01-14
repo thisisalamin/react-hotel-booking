@@ -1,8 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import App from './app/App';
 import reportWebVitals from './reportWebVitals';
+
+
+// Custom CSS
+import './assets/css/bootstrap.min.css';
+import './assets/css/datepicker.css';
+import './assets/css/tooplate-style.css';
+
+
 
 ReactDOM.render(
   <React.StrictMode>
