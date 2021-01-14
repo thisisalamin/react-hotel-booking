@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container">
         <div className="row">
           <nav className="navbar navbar-expand-lg narbar-light">
-            <a className="navbar-brand mr-auto" href="#">
+            <a className="navbar-brand mr-auto" href="/">
               <img src={LogoImage} alt="Site logo" />
               Level
             </a>
